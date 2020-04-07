@@ -1,4 +1,4 @@
-baseURL = "https://kiza.netlify.com"
+baseURL = "https://kizakiza.netlify.com"
 disableLanguages = []
 disqusShortname = ""
 paginate = "4"
